@@ -1,7 +1,11 @@
 package loose.oose.fis.documents;
 
 import java.util.Arrays;
+<<<<<<< HEAD
 // coment 2
+=======
+//coment
+>>>>>>> Branch1
 public class JSON extends Document {
     public JSON(String[] continut) {
         super(continut);
