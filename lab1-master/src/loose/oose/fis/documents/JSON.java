@@ -2,7 +2,11 @@ package loose.oose.fis.documents;
 
 import java.util.Arrays;
 <<<<<<< HEAD
+<<<<<<< HEAD
 // coment 2
+=======
+//coment
+>>>>>>> Branch1
 =======
 //coment
 >>>>>>> Branch1
